@@ -1,0 +1,11 @@
+.darkPanel{
+    background: #1D1D1D;
+    border: 1.4px solid rgba(255, 255, 255, 0.1);
+    border-radius: 14px;
+}
+
+.lightPanel{
+    background: #2E2E2E;
+    border: 1.4px solid rgba(255, 255, 255, 0.1);
+    border-radius: 14px;
+}

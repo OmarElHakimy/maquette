@@ -1,0 +1,18 @@
+.imgOne{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img1.png') 100% 100% no-repeat;
+}
+.imgTwo{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img2.png') 100% 100% no-repeat;
+}
+.imgThree{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img3.png') 100% 100% no-repeat;
+}
+.imgFour{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img4.png') 100% 100% no-repeat;
+}
+.imgFive{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img5.png') 100% 100% no-repeat;
+}
+.imgSix{
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 0.01%, rgba(0, 0, 0, 0.6) 65%, rgba(0, 0, 0, 0.7) 100%), url('../../../assets/images/img6.png') 100% 100% no-repeat;
+}
