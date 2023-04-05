@@ -21,7 +21,6 @@ const Footer = () => {
         }else{
             setIsSmall(false)
         }
-        console.log(width +" " + isSmall)
     }, [width])
 
     return (

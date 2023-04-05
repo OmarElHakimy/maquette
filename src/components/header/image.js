@@ -1,5 +1,4 @@
 import React from 'react';
-import image from '../../assets/images/logo.png';
 import backProfil from '../../assets/images/backProfil.png';
 import profil from '../../assets/images/profil.png';
 import './header.css'

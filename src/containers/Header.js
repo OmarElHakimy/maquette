@@ -21,7 +21,6 @@ const Header = () => {
         }else{
             setIsSmall(false)
         }
-        console.log(width +" " + isSmall)
     }, [width]);
     
     return(
